@@ -9,9 +9,10 @@ ul {
 /* Global Styles */
 body {
   font-family: Arial, sans-serif;
-  background-image: url('background.jpg'); /* Replace 'background.jpg' with the path to your background image */
+  background-image: url('logo.png'); /* Replace 'logo.png' with the path to your logo image */
   background-size: cover;
   background-position: center;
+  background-size: 20%;
   background-repeat: no-repeat;
 }
 
